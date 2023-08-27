@@ -4,7 +4,7 @@
 
 ##
 
-<img alt="choubari" align="right" src="https://devstickers.com/assets/img/pro/wq5o.png" width="100">
+<img alt="santidore" align="right" src="" width="100">
 <samp><p align=”justify” style="text-indent:40px;"> Hi! I'm Santiago, a <b> Junior Backend Java Developer </b> and this is my personal Github. I'm currently working and studying to become a Full Stack Developer and, in the meantime, I like to keep myself busy with projects like the ones you're about to check out. Thank you for stopping by!</p></samp>
 
 ##
@@ -19,7 +19,8 @@
 <img alt="santidore" src="https://devstickers.com/assets/img/pro/p3jo.png" width="40">
  </a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-<img alt="santidore" src="[https://devstickers.com/assets/img/pro/7kaq.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.clipartmax.com%2Fmiddle%2Fm2H7G6A0b1A0K9m2_c-language-global-or-external-variables-with-examples-c-programming-logo%2F&psig=AOvVaw0X5vMX4an0LrOp2ynTFEZV&ust=1693233553135000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCODFxNiI_YADFQAAAAAdAAAAABAJ)" width="40">
+<img alt="santidore" src="![cPNG](https://github.com/santidore/santidore/assets/122730135/67f670f3-f9b1-4f63-8b25-f54c3860a0c6)
+" width="40">
  </a>
  <a href="https://en.wikipedia.org/wiki/HTML">
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/iqm9.png" width="40">
