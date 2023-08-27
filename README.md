@@ -1,11 +1,13 @@
 <img src="https://github.com/santidore/santidore/blob/00ff93a9b15138a432d8548c7a052a6df31560ac/%40santidore.png" width=150%>
+
 ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/santidore/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:santidore@gmail.com)](mailto:santidore@gmail.com)
+
 ### ✨ Welcome to my Github! ✨
 
 ##
 
 <img alt="santidore" align="right" src="https://github.com/santidore/santidore/assets/122730135/b16f7c57-47ce-48c7-91b5-fe23feddd5d4" width="100">
-<samp><p align=”justify” style="text-indent:40px;"> Hi! I'm Santiago, a <b> Junior Backend Java Developer </b> and this is my personal Github. I'm currently working and studying to become a Full Stack Developer and, in the meantime, I like to keep myself busy with projects like the ones you're about to check out. Thank you for stopping by!</p></samp>
+<samp><p align="justify" style="text-indent:40px;"> Hi! I'm Santiago, a <b> Junior Backend Java Developer </b> and this is my personal Github. I'm currently working and studying to become a Full Stack Developer and, in the meantime, I like to keep myself busy with projects like the ones you're about to check out. Thank you for stopping by!</p></samp>
 
 ##
 
