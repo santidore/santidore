@@ -13,31 +13,32 @@
 
 <p float="left">
  <a href="https://www.java.com/">
-<img alt="santidore" src="https://devstickers.com/assets/img/pro/7kaq.png" width="40">
+<img alt="santidore" src="https://devstickers.com/assets/img/pro/7kaq.png" width="40" height="40">
  </a>
  <a href="https://www.python.org/">
-<img alt="santidore" src="https://devstickers.com/assets/img/pro/p3jo.png" width="40">
+<img alt="santidore" src="https://devstickers.com/assets/img/pro/p3jo.png" width="40" height="40">
  </a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-<img alt="santidore" src="https://github.com/santidore/santidore/assets/122730135/67f670f3-f9b1-4f63-8b25-f54c3860a0c6" width="40">
+<img alt="santidore" src="https://user-images.githubusercontent.com/59575502/127426751-01af6b81-3523-47d2-95b8-6166f9c3c3aa.png" width="40" height="40">
  </a>
    <a href="https://es.wikipedia.org/wiki/SQL#:~:text=SQL%20(por%20sus%20siglas%20en,de%20bases%20de%20datos%20relacionales.">
-<img alt="santidore" src="https://github.com/santidore/santidore/assets/122730135/3918cce4-d7bc-4bd5-832a-ccce9344f545" width="40">
+<img alt="santidore" src="https://github.com/santidore/santidore/assets/122730135/3918cce4-d7bc-4bd5-832a-ccce9344f545" width="40" height="40">
  </a>
  <a href="https://en.wikipedia.org/wiki/HTML">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/iqm9.png" width="40">
+<img alt="santidore" src="https://devstickers.com/assets/img/pro/iqm9.png" width="40" height="40">
  </a>
  <a href="https://en.wikipedia.org/wiki/CCS3">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/8pnd.png" width="40">
+<img alt="santidore" src="https://devstickers.com/assets/img/pro/8pnd.png" width="40" height="40">
   </a>
  <a href="https://git-scm.com/">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/apiv.png" width="40">
+<img alt="santidore" src="https://devstickers.com/assets/img/pro/apiv.png" width="40" height="40">
   </a>
  <a href="https://code.visualstudio.com/">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/saxu.png" width="40">
+<img alt="santidore" src="https://devstickers.com/assets/img/pro/saxu.png" width="40" height="40">
   </a>
 
  ### **Technologies & Frameworks**
+ 
 </p>
 
 ##
