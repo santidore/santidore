@@ -22,7 +22,7 @@
 <img alt="santidore" src="https://user-images.githubusercontent.com/59575502/127426751-01af6b81-3523-47d2-95b8-6166f9c3c3aa.png" width="40" height="40">
  </a>
    <a href="https://es.wikipedia.org/wiki/SQL#:~:text=SQL%20(por%20sus%20siglas%20en,de%20bases%20de%20datos%20relacionales.">
-<img alt="santidore" src="https://github.com/santidore/santidore/assets/122730135/3918cce4-d7bc-4bd5-832a-ccce9344f545" width="40" height="40">
+<img alt="santidore" src="https://github.com/santidore/santidore/assets/122730135/02174c73-0379-4d3d-9bdf-fe2ae15bb068" width="40" height="40">
  </a>
  <a href="https://en.wikipedia.org/wiki/HTML">
 <img alt="santidore" src="https://devstickers.com/assets/img/pro/iqm9.png" width="40" height="40">
@@ -30,15 +30,14 @@
  <a href="https://en.wikipedia.org/wiki/CCS3">
 <img alt="santidore" src="https://devstickers.com/assets/img/pro/8pnd.png" width="40" height="40">
   </a>
- <a href="https://git-scm.com/">
+
+ ### **Technologies & Frameworks**
+  <a href="https://git-scm.com/">
 <img alt="santidore" src="https://devstickers.com/assets/img/pro/apiv.png" width="40" height="40">
   </a>
  <a href="https://code.visualstudio.com/">
 <img alt="santidore" src="https://devstickers.com/assets/img/pro/saxu.png" width="40" height="40">
   </a>
-
- ### **Technologies & Frameworks**
- 
 </p>
 
 ##
