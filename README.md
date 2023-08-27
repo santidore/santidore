@@ -43,7 +43,7 @@
 <img alt="santidore" src="https://github.com/santidore/santidore/assets/122730135/b5de097c-7244-4124-ab7d-7313084c7659" width="60" height="60">
   </a>
   <a href="https://aws.amazon.com">
-<img alt="santidore" src="https://github.com/santidore/santidore/assets/122730135/e48f08e6-cc64-47f9-9ea2-b971a49d97ca" width="55">
+<img alt="santidore" src="https://github.com/santidore/santidore/assets/122730135/e48f08e6-cc64-47f9-9ea2-b971a49d97ca" width="40">
   </a>
   <a href="https://git-scm.com/">
 <img alt="santidore" src="https://devstickers.com/assets/img/pro/apiv.png" width="40" height="40">
