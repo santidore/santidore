@@ -13,7 +13,7 @@
 
 ##
 
-### **Programming Languages**
+### Programming Languages
 
 <p float="left">
  <a href="https://www.java.com/">
@@ -35,7 +35,7 @@
 <img alt="santidore" src="https://devstickers.com/assets/img/pro/8pnd.png" width="20" height="20">
   </a>
 
- ### **Technologies & Frameworks**
+ ### Technologies & Frameworks
  
   <a href="https://spring.io">
 <img alt="santidore" src="https://github.com/santidore/santidore/assets/122730135/ef06a76f-a974-49c5-9c17-0f588fa6315d" width="20" height="20">
@@ -59,7 +59,7 @@
 
 ##
 
-### **Personal Projects👨💻**
+### Personal Projects👨💻
 <table>
 <tr>
 <td width="50%" height="100">
