@@ -2,7 +2,7 @@
 
 ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/santidore/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:santidore@gmail.com)](mailto:santidore@gmail.com)
 
-### ✨ Welcome to my Github! ✨
+## ✨ Welcome to my Github! ✨
 
 ##
 
@@ -11,7 +11,7 @@
 
 ##
 
-## **Programming Languages**
+### **Programming Languages**
 
 <p float="left">
  <a href="https://www.java.com/">
@@ -33,7 +33,7 @@
 <img alt="santidore" src="https://devstickers.com/assets/img/pro/8pnd.png" width="40" height="40">
   </a>
 
- ## **Technologies & Frameworks**
+ ### **Technologies & Frameworks**
  
   <a href="https://spring.io">
 <img alt="santidore" src="https://github.com/santidore/santidore/assets/122730135/ef06a76f-a974-49c5-9c17-0f588fa6315d" width="40" height="40">
@@ -57,7 +57,8 @@
 
 ##
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=santidore&repo=get_next_line)](https://github.com/santidore/get_next_line)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
