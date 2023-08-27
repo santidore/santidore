@@ -32,16 +32,17 @@
   </a>
 
  ### **Technologies & Frameworks**
-  <a href="https://spring.io/">
+ 
+  <a href="https://spring.io">
 <img alt="santidore" src="https://github.com/santidore/santidore/assets/122730135/ef06a76f-a974-49c5-9c17-0f588fa6315d" width="40" height="40">
   </a>
-  <a href="https://maven.apache.org/">
-<img alt="santidore" src="https://github.com/santidore/santidore/assets/122730135/8e15e499-1e30-4483-a480-ec08a5ea5493" width="85" height="38">
+  <a href="https://maven.apache.org">
+<img alt="santidore" src="https://github.com/santidore/santidore/assets/122730135/c8d6c13f-a4fb-4533-9e18-44b82eafe4c7" width="85" height="38">
   </a>
-  <a href="https://www.mysql.com/">
+  <a href="https://www.mysql.com">
 <img alt="santidore" src="https://github.com/santidore/santidore/assets/122730135/b5de097c-7244-4124-ab7d-7313084c7659" width="60" height="60">
   </a>
-  <a href="https://aws.amazon.com)">
+  <a href="https://aws.amazon.com">
 <img alt="santidore" src="https://github.com/santidore/santidore/assets/122730135/a5abbc2c-f008-48cd-a0e4-31de89410527" width="85" height="38">
   </a>
   <a href="https://git-scm.com/">
