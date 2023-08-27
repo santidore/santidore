@@ -37,13 +37,13 @@
 <img alt="santidore" src="https://github.com/santidore/santidore/assets/122730135/ef06a76f-a974-49c5-9c17-0f588fa6315d" width="40" height="40">
   </a>
   <a href="https://maven.apache.org">
-<img alt="santidore" src="https://github.com/santidore/santidore/assets/122730135/c8d6c13f-a4fb-4533-9e18-44b82eafe4c7" width="85" height="38">
+<img alt="santidore" src="https://github.com/santidore/santidore/assets/122730135/e535460e-4be2-4dcd-98a6-707b54e7c294" width="85" height="38">
   </a>
   <a href="https://www.mysql.com">
 <img alt="santidore" src="https://github.com/santidore/santidore/assets/122730135/b5de097c-7244-4124-ab7d-7313084c7659" width="60" height="60">
   </a>
   <a href="https://aws.amazon.com">
-<img alt="santidore" src="https://github.com/santidore/santidore/assets/122730135/a5abbc2c-f008-48cd-a0e4-31de89410527" width="85" height="38">
+<img alt="santidore" src="https://github.com/santidore/santidore/assets/122730135/e48f08e6-cc64-47f9-9ea2-b971a49d97ca" width="85" height="38">
   </a>
   <a href="https://git-scm.com/">
 <img alt="santidore" src="https://devstickers.com/assets/img/pro/apiv.png" width="40" height="40">
