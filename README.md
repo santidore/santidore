@@ -59,12 +59,10 @@
 
 ##
 
-<br>
-
-## **Personal Projects👨💻**
+### **Personal Projects👨💻**
 <table>
 <tr>
-<td width="50%" height="800">
+<td width="100" height="150">
 <h3 align="center">C Programming</h3>
 <div align="center">
 <a href=""https://github.com/santidore/get_next_line" target="_blank"><img src="https://github.com/santidore/santidore/assets/122730135/1f24ed05-fbbb-4526-ac20-c2966ebfb2f1" width="300" alt="C Programming"></a>
@@ -77,7 +75,7 @@
                                                                                       
 </td>
 
-<td width="50%">
+<td width="100" height="150">
                <br>
 <!-- <h3 align="center">Arquitectura MVVM</h3>
 <div align="center">                                       
