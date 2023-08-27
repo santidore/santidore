@@ -2,7 +2,9 @@
 
 ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/santidore/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:santidore@gmail.com)](mailto:santidore@gmail.com)
 
-## ✨ Welcome to my Github! ✨
+<div align="center">
+<h1 align="center">✨ Welcome to my Github! ✨</h1>
+</div>
 
 ##
 
@@ -57,9 +59,49 @@
 
 ##
 
-### **Personal Projects👨💻**
+<br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=santidore&repo=get_next_line)](https://github.com/santidore/get_next_line)
+## **Personal Projects👨💻**
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">C Programming</h3>
+<div align="center">
+<a href=""https://github.com/santidore/get_next_line" target="_blank"><img src="https://github.com/santidore/santidore/assets/122730135/1f24ed05-fbbb-4526-ac20-c2966ebfb2f1" width="400" alt="C Programming"></a>
+<p>
+<a href="https://github.com/santidore/get_next_line" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://candidatura.42malaga.com/es/users/sign_in" target="_blank">
+<img src="https://github.com/santidore/santidore/assets/122730135/1f24ed05-fbbb-4526-ac20-c2966ebfb2f1">
+</a>
+</p>
+<p> C Programming part of the common core of <strong> 42 Málaga </strong>'s campus. We replicated C functions from scratch, in this case Get Next Line.</p>
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
+               <br>
+<!-- <h3 align="center">Arquitectura MVVM</h3>
+<div align="center">                                       
+<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<br>
+<p>
+<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
+</a>
+</p>
+</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</div>                                                              -->
+</table>                                                                                 
+</div>
+<br>
+
+##
 
 ### More about me:
 
@@ -68,5 +110,13 @@
 - 🌐 Visit my Linkedin profile ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/santidore/) for complete background and contact.
 - 📝 &nbsp; Checkout my [Resume](https://www.linkedin.com/in/santidore/overlay/1635533661529/single-media-viewer/?type=DOCUMENT&profileId=ACoAADsd9pQBtoEGSGaijR6Pza71K7XD58G45f4).
 
+##
 
-![santidore's GitHub stats](https://github-readme-stats.vercel.app/api?username=santidore&show_icons=true&theme=dracula&card_width=300px&card_height=200px)
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/santidore">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=santidore&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=santidore&layout=compact&langs_count=8&theme=dracula"/>
+</a>
+</p>
