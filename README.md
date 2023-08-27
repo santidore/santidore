@@ -1,4 +1,4 @@
-<img src="https://github.com/santidore/santidore/blob/00ff93a9b15138a432d8548c7a052a6df31560ac/%40santidore.png" width=120%>
+<img src="https://github.com/santidore/santidore/blob/00ff93a9b15138a432d8548c7a052a6df31560ac/%40santidore.png" width=150%>
 
 ### ✨ Welcome to my Github! ✨
 
