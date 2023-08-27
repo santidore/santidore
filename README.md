@@ -32,7 +32,7 @@
   </a>
 
  ### **Technologies & Frameworks**
-   <a href="https://spring.io/">
+  <a href="https://spring.io/">
 <img alt="santidore" src="https://github.com/santidore/santidore/assets/122730135/ef06a76f-a974-49c5-9c17-0f588fa6315d" width="40" height="40">
   </a>
   <a href="https://maven.apache.org/">
@@ -41,13 +41,13 @@
   <a href="https://www.mysql.com/">
 <img alt="santidore" src="https://github.com/santidore/santidore/assets/122730135/b5de097c-7244-4124-ab7d-7313084c7659" width="40" height="40">
   </a>
-    <a href="https://aws.amazon.com)">
+  <a href="https://aws.amazon.com)">
 <img alt="santidore" src="https://github.com/santidore/santidore/assets/122730135/746f72d1-1c95-4c69-ac32-242b74e9f5ac" width="85" height="38">
   </a>
   <a href="https://git-scm.com/">
 <img alt="santidore" src="https://devstickers.com/assets/img/pro/apiv.png" width="40" height="40">
   </a>
- <a href="https://code.visualstudio.com/">
+  <a href="https://code.visualstudio.com/">
 <img alt="santidore" src="https://devstickers.com/assets/img/pro/saxu.png" width="40" height="40">
   </a>
 </p>
