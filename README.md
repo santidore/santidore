@@ -57,18 +57,15 @@
 
 ##
 
+### **Personal Projects👨💻**
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=santidore&repo=get_next_line)](https://github.com/santidore/get_next_line)
 
-Here are some ideas to get you started:
+### More about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-  
+- 🌱 Currently working, learning and growing my skillset in software development, API Design, competitive coding, data structures and algorithms.
+- 🤝 Open for collaborations in web development 🕸️
+- 🌐 Visit my Linkedin profile ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/santidore/) for complete background and contact.
+- 📝 &nbsp; Checkout my [Resume](https://www.linkedin.com/in/santidore/overlay/1635533661529/single-media-viewer/?type=DOCUMENT&profileId=ACoAADsd9pQBtoEGSGaijR6Pza71K7XD58G45f4).
+
 ![santidore's GitHub stats](https://github-readme-stats.vercel.app/api?username=santidore&show_icons=true&theme=dracula&card_width=300px&card_height=200px)
