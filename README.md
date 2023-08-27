@@ -19,8 +19,7 @@
 <img alt="santidore" src="https://devstickers.com/assets/img/pro/p3jo.png" width="40">
  </a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-<img alt="santidore" src="![cPNG](https://github.com/santidore/santidore/assets/122730135/67f670f3-f9b1-4f63-8b25-f54c3860a0c6)
-" width="40">
+<img alt="santidore" src="https://github.com/santidore/santidore/assets/122730135/67f670f3-f9b1-4f63-8b25-f54c3860a0c6" width="40">
  </a>
  <a href="https://en.wikipedia.org/wiki/HTML">
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/iqm9.png" width="40">
