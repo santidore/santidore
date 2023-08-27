@@ -1,5 +1,5 @@
 <img src="https://github.com/santidore/santidore/blob/00ff93a9b15138a432d8548c7a052a6df31560ac/%40santidore.png" width=150%>
-
+![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/santidore/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:santidore@gmail.com)](mailto:santidore@gmail.com)
 ### ✨ Welcome to my Github! ✨
 
 ##
