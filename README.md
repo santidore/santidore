@@ -1,11 +1,11 @@
-![alt README header]((https://github.com/santidore/santidore/blob/00ff93a9b15138a432d8548c7a052a6df31560ac/%40santidore.png))
+<img src="[https://camo.githubusercontent.com/3e2ea701e0014e69cd14ec62c14f569a3ff9bff9/68747470733a2f2f63646e2e6c6f776769662e636f6d2f66756c6c2f366561653766643762636365326335612d736e6170652d6769662d6f6e2d74756d626c722e676966](https://github.com/santidore/santidore/blob/00ff93a9b15138a432d8548c7a052a6df31560ac/%40santidore.png)" width=80%>
 
 ### ✨ Welcome to my Github! ✨
 
 ##
 
 <img alt="santidore" align="right" src="" width="100">
-<samp><p align=”justify” style="text-indent:40px;"> Hi! I'm Santiago, a <b> Junior Backend Java Developer </b> and this is my personal Github. I'm currently working and studying to become a Full Stack Developer and, in the meantime, I like to keep myself busy with projects like the ones you're about to check out. Thank you for stopping by!</p></samp>
+<samp><p align=”justify” style="text-indent:40 px;"> Hi! I'm Santiago, a <b> Junior Backend Java Developer </b> and this is my personal Github. I'm currently working and studying to become a Full Stack Developer and, in the meantime, I like to keep myself busy with projects like the ones you're about to check out. Thank you for stopping by!</p></samp>
 
 ##
 
