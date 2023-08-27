@@ -4,12 +4,13 @@
 
 ##
 
-<img alt="santidore" align="right" src="" width="100">
+<img alt="santidore" align="right" src="https://github.com/santidore/santidore/assets/122730135/b16f7c57-47ce-48c7-91b5-fe23feddd5d4
+" width="100">
 <samp><p align=”justify” style="text-indent:40 px;"> Hi! I'm Santiago, a <b> Junior Backend Java Developer </b> and this is my personal Github. I'm currently working and studying to become a Full Stack Developer and, in the meantime, I like to keep myself busy with projects like the ones you're about to check out. Thank you for stopping by!</p></samp>
 
 ##
 
-### **Languages and Technologies:**
+### **Languages I know:**
 
 <p float="left">
  <a href="https://www.java.com/">
@@ -20,6 +21,10 @@
  </a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
 <img alt="santidore" src="https://github.com/santidore/santidore/assets/122730135/67f670f3-f9b1-4f63-8b25-f54c3860a0c6" width="40">
+ </a>
+   <a href="https://es.wikipedia.org/wiki/SQL#:~:text=SQL%20(por%20sus%20siglas%20en,de%20bases%20de%20datos%20relacionales.">
+<img alt="santidore" src="https://github.com/santidore/santidore/assets/122730135/87723741-2002-4813-a840-c005e6ac8e0a
+" width="40">
  </a>
  <a href="https://en.wikipedia.org/wiki/HTML">
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/iqm9.png" width="40">
@@ -33,9 +38,12 @@
  <a href="https://code.visualstudio.com/">
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/saxu.png" width="40">
   </a>
+
+ **Technologies**
 </p>
 
 ##
+
 
 Here are some ideas to get you started:
 
