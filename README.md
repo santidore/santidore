@@ -11,7 +11,7 @@
 
 ##
 
-### **Programming Languages**
+## **Programming Languages**
 
 <p float="left">
  <a href="https://www.java.com/">
@@ -33,7 +33,7 @@
 <img alt="santidore" src="https://devstickers.com/assets/img/pro/8pnd.png" width="40" height="40">
   </a>
 
- ### **Technologies & Frameworks**
+ ## **Technologies & Frameworks**
  
   <a href="https://spring.io">
 <img alt="santidore" src="https://github.com/santidore/santidore/assets/122730135/ef06a76f-a974-49c5-9c17-0f588fa6315d" width="40" height="40">
@@ -69,3 +69,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![santidore's GitHub stats](https://github-readme-stats.vercel.app/api?username=santidore&show_icons=true&theme=dracula)
