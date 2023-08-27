@@ -39,10 +39,10 @@
 <img alt="santidore" src="https://github.com/santidore/santidore/assets/122730135/8e15e499-1e30-4483-a480-ec08a5ea5493" width="85" height="38">
   </a>
   <a href="https://www.mysql.com/">
-<img alt="santidore" src="https://github.com/santidore/santidore/assets/122730135/b5de097c-7244-4124-ab7d-7313084c7659" width="40" height="40">
+<img alt="santidore" src="https://github.com/santidore/santidore/assets/122730135/b5de097c-7244-4124-ab7d-7313084c7659" width="60" height="60">
   </a>
   <a href="https://aws.amazon.com)">
-<img alt="santidore" src="https://github.com/santidore/santidore/assets/122730135/746f72d1-1c95-4c69-ac32-242b74e9f5ac" width="85" height="38">
+<img alt="santidore" src="https://github.com/santidore/santidore/assets/122730135/a5abbc2c-f008-48cd-a0e4-31de89410527" width="85" height="38">
   </a>
   <a href="https://git-scm.com/">
 <img alt="santidore" src="https://devstickers.com/assets/img/pro/apiv.png" width="40" height="40">
