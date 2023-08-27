@@ -70,7 +70,7 @@
 <a href=""https://github.com/santidore/get_next_line" target="_blank"><img src="https://github.com/santidore/santidore/assets/122730135/1f24ed05-fbbb-4526-ac20-c2966ebfb2f1" width="400" alt="C Programming"></a>
 <p>
 <a href="https://github.com/santidore/get_next_line" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <p> C Programming part of the common core of <strong> 42 Málaga </strong>'s campus. We replicated C functions from scratch, in this case Get Next Line.</p>
 </div>
