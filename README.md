@@ -57,7 +57,7 @@
 
 ##
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -69,4 +69,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![santidore's GitHub stats](https://github-readme-stats.vercel.app/api?username=santidore&show_icons=true&theme=dracula)
+  
+![santidore's GitHub stats](https://github-readme-stats.vercel.app/api?username=santidore&show_icons=true&theme=dracula&card_width=300px&card_height=200px)
