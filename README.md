@@ -70,7 +70,7 @@
 <a href="https://github.com/santidore/Book-Scraper" target="_blank">
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<p> Web scraping project built with Scrapy, a Python framework for extracting data from websites through XPath</p>
+<p> Web scraping project built with Scrapy, a Python framework for extracting data from websites through XPath selectors</p>
 </div>
                                                                                       
 </td>
