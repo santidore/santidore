@@ -63,14 +63,14 @@
 <table>
 <tr>
 <td width="50%" height="100">
-<h3 align="center">C Programming</h3>
+<h3 align="center">Python</h3>
 <div align="center">
-<a href=""https://github.com/santidore/get_next_line" target="_blank"><img src="https://github.com/santidore/santidore/assets/122730135/1f24ed05-fbbb-4526-ac20-c2966ebfb2f1" width="300" alt="C Programming"></a>
+<a href=""https://github.com/santidore/Book-Scraper" target="_blank"><img src="https://github.com/santidore/santidore/assets/122730135/e2852d68-e40a-40f3-9c99-fcae287cfb2a" width="300" alt="Book Scraper with Scrapy"></a>
 <p>
-<a href="https://github.com/santidore/get_next_line" target="_blank">
+<a href="https://github.com/santidore/Book-Scraper" target="_blank">
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<p> C Programming part of the common core of <strong> 42 Málaga </strong>'s campus. We replicated C functions from scratch, in this case Get Next Line.</p>
+<p> Web scraping project built with Scrapy, a Python framework for extracting data from websites through XPath</p>
 </div>
                                                                                       
 </td>
