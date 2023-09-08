@@ -100,7 +100,7 @@
 - 🌱 Currently working, learning and growing my skillset in software development, API Design, competitive coding, data structures and algorithms.
 - 🤝 Open for collaborations in web development 🕸️
 - 🌐 Visit my Linkedin profile ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/santidore/) for complete background and contact.
-- 📝 &nbsp; Checkout my [Resume](https://www.linkedin.com/in/santidore/overlay/1635533661529/single-media-viewer/?type=DOCUMENT&profileId=ACoAADsd9pQBtoEGSGaijR6Pza71K7XD58G45f4).
+- 📝 &nbsp; Checkout my [Resume](https://www.linkedin.com/in/santidore/overlay/1635539834543/single-media-viewer/?profileId=ACoAADsd9pQBtoEGSGaijR6Pza71K7XD58G45f4).
 
 ##
 
